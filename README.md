@@ -4,7 +4,7 @@ The source code in the submitted paper to CCF-C conference：International Confe
 # Coming soon
 When the paper accepted, we will upload the completed code about smoking-YOLO.
 
-#Results
+# Results
 The detection algorithm is based on Smoking-3k comparison
 | Model Name                 | AP0.5:0.95     | AP0.5   | FPS                              | Params      |  Gflops |
 |----------------------------|---------------|-------------------------------------------|-----------------------------------------|-------------------|---|
